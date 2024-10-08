@@ -6,4 +6,4 @@
 
 ...
 
-![Image of Module](https://github.com/CedarGroveStudios/MatrixWeather/blob/main/photos_and_graphics/matrix_weather.jpeg)
+![Image of Module](https://github.com/CedarGroveStudios/AIO_Weather_Repeater/blob/main/photos_and_graphics/IMG_2367_lo-res.jpeg)

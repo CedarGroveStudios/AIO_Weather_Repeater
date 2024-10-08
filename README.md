@@ -2,7 +2,6 @@
 
 ### _Create local weather observation feeds from Adafruit IO Apple WeatherKit_
 
-## Overview
 
 ...
 
